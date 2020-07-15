@@ -1,7 +1,6 @@
 #Required library: 
 # pip3 install PyMuPDF
 # pip3 install fitz
-
 import sys, fitz
 pdf = "sample.pdf"
 doc = fitz.open(pdf)
