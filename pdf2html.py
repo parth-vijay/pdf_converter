@@ -7,6 +7,7 @@ import sys, fitz
 print("hello")
 
 print("hi")
+
 pdf = "sample.pdf"
 doc = fitz.open(pdf)
 for page in doc:
