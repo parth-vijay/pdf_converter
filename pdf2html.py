@@ -3,6 +3,7 @@
 # pip3 install fitz
 import sys, fitz, os
 print("hi there")
+print("hello")
 pdf = "sample.pdf"
 doc = fitz.open(pdf)
 for page in doc:
