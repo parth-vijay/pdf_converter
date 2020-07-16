@@ -12,3 +12,6 @@ with open('output.html', 'w') as f:
     f.write(html_text)
 
 print("this is a test")
+
+
+print("this is another test")
