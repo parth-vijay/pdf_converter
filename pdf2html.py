@@ -10,3 +10,4 @@ for page in doc:
 with open('output.html', 'w') as f:
     f.write(html_text)
 print("hello")
+print("hi")
